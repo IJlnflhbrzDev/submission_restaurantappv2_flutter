@@ -1,4 +1,4 @@
-# submission_restaurantappv1
+# submission_restaurantappv2
 
 A new Flutter project.
 
